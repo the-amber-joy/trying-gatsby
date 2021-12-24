@@ -6,6 +6,7 @@ const ResumePage = () => {
   return (
     <Layout pageTitle="My Resume">
       <iframe
+        title="My Resume"
         frameborder="0"
         className={iframe}
         src="https://docs.google.com/document/d/e/2PACX-1vSirVcD1gb24VTWbRMhlRDBdU5MVdK1_-u8tFp0LVAgxpzv370x9GaOJsXnYC8EKbs9y-w-e62NJSWl/pub?embedded=true"
